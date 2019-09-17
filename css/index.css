@@ -1,0 +1,28 @@
+h1, h3{color:grey;
+  text-align:center;
+  font-family:sans-serif;
+}
+a:link{color:purple}
+a:hover{color:black}
+a:visited{color:red}
+body{background-color:bisque;
+  text-align:center
+}
+h1,h3{text-decoration:underline;
+  border:5px solid burlyWood;
+  border-radius:10px}
+div{border:3px solid sandyBrown;
+  border-radius:10px}
+table{
+  width:500px;
+  height:150px;
+  border: 5px inset burlyWood;
+  padding: 3px;
+  border-collapse: collapse;
+  margin:auto;
+  }
+td {
+  border: 2px dashed burlyWood;
+  empty-cells: hide;
+  padding: 2px;
+}
